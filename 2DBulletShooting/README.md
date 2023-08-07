@@ -1,4 +1,6 @@
 
 ## 2DBulletShooting-hdcola
 
-https://wenrexa.itch.io/laser2020
+Used resource:
+
+* https://wenrexa.itch.io/laser2020

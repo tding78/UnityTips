@@ -7,10 +7,11 @@
 | 目录名称        | 说明          | 
 | ------------- |:-------------:| 
 | [2DBulletShooting](https://hdcodepractice.github.io/UnityTips/2DBulletShooting/) | 2D射击子弹 | 
+| [2DHealthBar](https://hdcodepractice.github.io/UnityTips/2DHealthBar/) | 2D生命值血条 |
 
 
 # 参与提交说明
 
-* 请将你的项目放在对应的目录中，如果有多个项目，请通过项目名称来区别，项目名称请加上 - username
+* 请将你的项目放在对应的目录中，如果有多个项目，请通过项目名称来区别，项目名称请加上 username 前缀
 * 提交项目时也请同时更新所在目录中的README.md文件
-* 在发布WebGL版本时，请在 ***Player Settings*** 中的 ***Publishing Settings*** 里将 ***Compression Format*** 设置为 ***Disabled***
+* 在发布WebGL版本时，请在 ***Player Settings*** 中的 ***Publishing Settings*** 里将 ***Compression Format*** 设置为 ***Disabled*** , 同时也请将 ***Resolution and Presentation***中的 ***Run In Background*** 勾选上。

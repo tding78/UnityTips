@@ -11,6 +11,7 @@ public class PlayerMoreHealth : MonoBehaviour
     void Start()
     {
         healthBar = GetComponentInChildren<FloatingHealthBar>();
+        healthBar.UpdateHealthBar(0, 100f);
     }
 
     // Update is called once per frame
